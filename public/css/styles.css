@@ -1,0 +1,9 @@
+h1 {
+    color: grey;
+}
+
+.link {
+    border: 1px solid blue;
+    padding: 3px 6px;
+    margin: 0 3px;
+}
